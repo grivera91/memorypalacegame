@@ -19,7 +19,7 @@ Características
 
 Demo en línea
 
-Prueba el juego aquí: [https://grivera91.github.io/memorypalacegame]
+Prueba el juego aquí: [[https://grivera91.github.io/memorypalacegame](https://grmemorypalacegame.netlify.app/)]
 
 git clone https://github.com/grivera91/memorypalacegame.git
 cd memorypalacegame
